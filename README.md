@@ -1,5 +1,5 @@
 # 💫 About Me:
-👻 About Me<br><br>🔭 Currently crafting robust backend systems using Java.<br><br>👯 Open to collaborating on impactful open-source and backend-driven projects.<br><br>🤝 Seeking guidance in system design, scalable architectures, and industry-level development.<br><br>🌱 Diving deep into Spring Framework, Microservices, and Data Structures & Algorithms.<br><br>💬 Let’s talk about Java, backend development, and solving real-world problems with code.<br><br>⚡ Fun fact  <br>I turn caffeine into code and bugs into features 👻
+#🔭 Currently crafting robust backend systems using Java.<br><br>👯 Open to collaborating on impactful open-source and backend-driven projects.<br><br>🤝 Seeking guidance in system design, scalable architectures, and industry-level development.<br><br>🌱 Diving deep into Spring Framework, Microservices, and Data Structures & Algorithms.<br><br>💬 Let’s talk about Java, backend development, and solving real-world problems with code.<br><br>⚡ Fun fact  <br>I turn caffeine into code and bugs into features 👻
 
 
 ## 🌐 Socials:
