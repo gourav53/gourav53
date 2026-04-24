@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👻 About Me<br><br>🔭 Currently crafting robust backend systems using Java.<br><br>👯 Open to collaborating on impactful open-source and backend-driven projects.<br><br>🤝 Seeking guidance in system design, scalable architectures, and industry-level development.<br><br>🌱 Diving deep into Spring Framework, Microservices, and Data Structures & Algorithms.<br><br>💬 Let’s talk about Java, backend development, and solving real-world problems with code.<br><br>⚡ Fun fact  <br>I turn caffeine into code and bugs into features 👻
+👻 About Me<br><br>🔭 Currently crafting robust backend systems using Java.<br><br>👯 Open to collaborating on impactful open-source and backend-driven projects.<br><br>🤝 Seeking guidance in system design, scalable architectures, and industry-level development.<br><br>🌱 Diving deep into Spring Framework, Microservices, and Data Structures & Algorithms.<br><br>💬 Let’s talk about Java, backend development, and solving real-world problems with code.<br><br>⚡ Fun fact  <br>I turn caffeine into code and bugs into features 👻
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=gourav53&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gourav53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
